@@ -1,0 +1,52 @@
+{
+	"contentrating" : "Everyone",
+	"description" : "apple watch 26新发布的全新表盘 精准时图 现已复刻到wallpaper",
+	"file" : "index.html",
+	"general" : 
+	{
+		"properties" : 
+		{
+			"color_hour" : 
+			{
+				"index" : 0,
+				"order" : 100,
+				"text" : "小时颜色",
+				"type" : "color",
+				"value" : "0.17647058823529413 0.9490196078431372 0.8313725490196079"
+			},
+			"color_minute" : 
+			{
+				"index" : 1,
+				"order" : 101,
+				"text" : "分钟颜色",
+				"type" : "color",
+				"value" : "1 0 0"
+			},
+			"color_second" : 
+			{
+				"index" : 2,
+				"order" : 102,
+				"text" : "秒颜色",
+				"type" : "color",
+				"value" : "1 1 1"
+			},
+			"schemecolor" : 
+			{
+				"order" : 0,
+				"text" : "ui_browse_properties_scheme_color",
+				"type" : "color",
+				"value" : "0 0 0"
+			}
+		}
+	},
+	"preview" : "preview.jpg",
+	"ratingsex" : "none",
+	"ratingviolence" : "none",
+	"tags" : [ "Unspecified" ],
+	"title" : "apple watch 精准时图",
+	"type" : "web",
+	"version" : 2,
+	"visibility" : "public",
+	"workshopid" : "3591556804",
+	"workshopurl" : "steam://url/CommunityFilePage/3591556804"
+}

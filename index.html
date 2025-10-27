@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="zh-cn">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>表盘</title>
+    <link rel="stylesheet" href="style.css">
+    
+</head>
+<body>
+    <div class="clock">
+        <div id="background"></div>
+        <div class="hand hour" id="hour-hand"><canvas id="hour-canvas"></canvas></div>
+        <div class="hand minute" id="minute-hand"><canvas id="min-canvas"></canvas></div>
+        <div class="hand second" id="second-hand"><canvas id="second-canvas"></canvas></div>
+        
+        <div class="center-dot"><canvas id="tick"></canvas></div>
+    </div>
+</body>
+<script src="https://cdn.jsdelivr.net/npm/bezier-easing@2.1.0/dist/bezier-easing.min.js"></script>
+<script src="script.js" defer></script>
+</html>
